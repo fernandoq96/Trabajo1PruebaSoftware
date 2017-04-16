@@ -1,0 +1,52 @@
+>>> MODIFICACIONES TP 1 <<< FER
+
+Caso #01: Basico / 
+	Queremos verificar si el programa es capaz de encontrar una coincidencia que se encuentra escrita literalmente en el primer numero en el mismo orden.
+
+Caso #02: - - -
+	Se verifica que el programa determine correctamente que no existen coincidencias.
+
+Caso #03: Busqueda desordenada
+	Queremos observar si el programa es capaz de encontrar la coincidencia en el primer numero pero los digitos se encuentran desordenados.
+
+Caso #04: - - - 
+	chau unica
+
+Caso #05: - - -
+	voto por multiples, chau mas de 9.
+
+Caso #06: Apariciones superpuestas
+	Se verifica que el programa resuelva correctamente todas las coincidencias incluyendo todos los digitos del primer numero; sin saltearse aquellos que ya coincidieron.		// MERGE EZE Y NICO
+
+Caso #07: Longitud mayor a 9 en ambos numeros
+	Se verifica que el programa pueda trabajar con mas de 9 digitos en cada numero.
+
+Caso #08: Comparación hasta N digitos
+	Comprobamos que el programa recorra todo el primer numero para encontrar las posibles coincidencias.
+
+Caso #09:  VOTO POR SACARLO, porque abarca muchos errores juntos y no podes determinar bien que estas buscando.
+
+Caso #10: Leer alrevez
+	Se verifica si el programa es capaz de encontrar la coincidencia en sentido inverso, de derecha a izquierda.
+
+Caso #11: - - - 
+ - - - - - 
+
+Caso #12: - - -
+- - - - -
+
+Caso #13: Caso trivial para comprobar funcionamiento
+
+Caso #14: Error de funcionamiento I.exe / Limite de M digitos
+	Queremos verificar el error de funcionamiento del programa I.exe al ingresar M >= 8 digitos.				-----> Escucho propuestas si no les va este
+
+Caso #15: Multiples repeticiones desordenadas
+	Se verifica que el programa encuentre las coincidencias incluyendo todos los digitos aunque ya tuvieran una coincidencia previa o desordenados.
+
+Caso #16: Suma de los M digitos
+	Se verifica que el programa no tome como valido a una coincidencia tan solo por ser iguales en la suma de sus digitos. 
+	Pueden ser la misma cantidad pero distintos valores y al realizar la adición entre los mismos sea la misma.
+
+Caso #17: Detección error F 					----> Creo que es medio rancio, escucho ofertas
+	Caso similar al anterior para verificar el error del F.exe que encuentra las coincidencias a partir de la suma de los digitos.
+
